@@ -149,3 +149,29 @@
 20:36:28.135 [main] INFO  testCases.TC_002_LoginTest - Providing Login Credentials
 20:36:28.792 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login button
 20:36:28.845 [main] INFO  testCases.TC_002_LoginTest - =====Finished TC_002_LoginTest=====
+21:12:19.870 [main] INFO  testCases.TC_001_AccountRegistrationTest - <====== Starting TC_001_AccountRegistrationTest =======> 
+21:12:19.993 [main] INFO  testCases.TC_001_AccountRegistrationTest - <====== Clicked on my account link =======> 
+21:12:20.280 [main] INFO  testCases.TC_001_AccountRegistrationTest - <====== Clicked on register link =======> 
+21:12:20.373 [main] INFO  testCases.TC_001_AccountRegistrationTest - <====== Providing customer data =======> 
+21:12:21.607 [main] INFO  testCases.TC_001_AccountRegistrationTest - <====== Clicked on continue =======> 
+21:12:21.649 [main] INFO  testCases.TC_001_AccountRegistrationTest - <====== Validating expected message =======> 
+21:12:21.653 [main] INFO  testCases.TC_001_AccountRegistrationTest - <====== Starting TC_001_AccountRegistrationTest =======> 
+21:12:25.431 [main] INFO  testCases.TC_002_LoginTest - =====Starting TC_002_LoginTest======
+21:12:25.492 [main] INFO  testCases.TC_002_LoginTest - Clicked on Myaccount
+21:12:25.682 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
+21:12:25.684 [main] INFO  testCases.TC_002_LoginTest - Providing Login Credentials
+21:12:26.087 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login button
+21:12:26.207 [main] INFO  testCases.TC_002_LoginTest - =====Finished TC_002_LoginTest=====
+21:17:16.632 [main] INFO  testCases.TC_001_AccountRegistrationTest - <====== Starting TC_001_AccountRegistrationTest =======> 
+21:17:16.877 [main] INFO  testCases.TC_001_AccountRegistrationTest - <====== Clicked on my account link =======> 
+21:17:17.722 [main] INFO  testCases.TC_001_AccountRegistrationTest - <====== Clicked on register link =======> 
+21:17:17.730 [main] INFO  testCases.TC_001_AccountRegistrationTest - <====== Providing customer data =======> 
+21:17:18.787 [main] INFO  testCases.TC_001_AccountRegistrationTest - <====== Clicked on continue =======> 
+21:17:18.827 [main] INFO  testCases.TC_001_AccountRegistrationTest - <====== Validating expected message =======> 
+21:17:18.831 [main] INFO  testCases.TC_001_AccountRegistrationTest - <====== Starting TC_001_AccountRegistrationTest =======> 
+21:17:22.192 [main] INFO  testCases.TC_002_LoginTest - =====Starting TC_002_LoginTest======
+21:17:22.253 [main] INFO  testCases.TC_002_LoginTest - Clicked on Myaccount
+21:17:22.452 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login
+21:17:22.456 [main] INFO  testCases.TC_002_LoginTest - Providing Login Credentials
+21:17:22.853 [main] INFO  testCases.TC_002_LoginTest - Clicked on Login button
+21:17:22.962 [main] INFO  testCases.TC_002_LoginTest - =====Finished TC_002_LoginTest=====
